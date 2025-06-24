@@ -71,9 +71,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-'''
-pip install pyinstaller
-打包成exe
-pyinstaller -F --name=OXBProviderV2 ./project/__main__.py
-'''
